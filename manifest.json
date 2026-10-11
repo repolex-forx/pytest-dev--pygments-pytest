@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pygments-pytest",
+  "versions": [
+    {
+      "commit": "91ed6b6211bfa3effdfc57c2b85608906298dc3c",
+      "parsed_at": "2026-10-11T02:54:34.219543+00:00",
+      "tag": "v2.5.0",
+      "filetree": "filetree/91ed6b6211bfa3effdfc57c2b85608906298dc3c.nq.gz",
+      "blobs": [
+        "blob/b7af5ef213084fe100c5bb755659ef68c14dae5b.nq.gz",
+        "blob/7bd926afce5f068d9843205dd6a781b0dc5d5768.nq.gz",
+        "blob/16b5cc26a94a3f2877c845b8582e2dcc237aa38d.nq.gz",
+        "blob/a2bdb83a92e77fa106a5e0b8dc9dfca6c0b5075d.nq.gz",
+        "blob/18483232503156c190648b7285a49d8e699ad87a.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/98773dd6fb07fe7cd2f71b10f94edb2dcf2b9a62.nq.gz",
+        "blob/f48244ad667bdbc14d90d382a5955e7d1b1765f6.nq.gz",
+        "blob/09f5cffb0c1c23305c75e50061f662ce85e89a72.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/16a79a8f3e92f045209d05cc646cfc6665b08ae7.nq.gz",
+        "blob/7ec0f933100dac51f5743ae6be2e47579235bc53.nq.gz",
+        "blob/4248ffc4e8e1f601bd44c74c085814574e10a4e6.nq.gz",
+        "blob/02695093389e145ec12628bdb1e76c14524e7053.nq.gz",
+        "blob/4f8c448cee0e59698bc375827346166dc293e085.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
